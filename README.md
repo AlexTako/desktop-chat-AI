@@ -21,8 +21,7 @@
 
 1. **Клонирование репозитория**
    ```bash
-   git clone https://github.com/ваш-юзернейм/51-lesson.git
-   cd 51-lesson
+   git clone https://github.com/AlexTako/desktop-chat-AI.git
    ```
 
 2. **Создание виртуального окружения**
